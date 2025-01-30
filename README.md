@@ -19,5 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishwan810&show_icons=true&locale=en&layout=compact" alt="nishwan810" /></p>
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
           
