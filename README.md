@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Wankhade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, Springboot**
 
 - 👨‍💻 All of my projects are available at [https://nishwan810.github.io/Portfolio-nishwan/](https://nishwan810.github.io/Portfolio-nishwan/)
 
