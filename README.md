@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="matrix animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nishwan%20👨‍💻&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 </p>
+
 
 <h2 align="center">Hey there, I'm Nishwan 👋</h2>
 
