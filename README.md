@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="100%" height="80"/>
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=⭐%20Thanks%20for%20scrolling!%20⭐&width=800&height=120" />
 </p>
 
 
