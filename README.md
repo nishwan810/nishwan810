@@ -26,20 +26,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:fc00ff,100:00dbde&height=160&section=footer&text=⚡%20Keep%20Creating%20and%20Innovating!%20⚡&fontColor=ffffff&fontAlignY=45&fontSize=20&animation=twinkling"/>
 </p>
 
-<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad">
-      <stop offset="0%" stop-color="#00DBDE">
-        <animate attributeName="stop-color" values="#00DBDE;#FC00FF;#00DBDE" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#FC00FF">
-        <animate attributeName="stop-color" values="#FC00FF;#00DBDE;#FC00FF" dur="6s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="url(#grad)">
-    ✨ Made with Logic + Magic ✨
-  </text>
-</svg>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lokesh-coder/pretty-readme-assets/main/blob.svg" width="100%" height="160"/>
+</p>
+
 
 
