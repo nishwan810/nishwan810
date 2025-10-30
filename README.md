@@ -24,8 +24,13 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
 </p>
+
+<p align="center">
+  <b>Thanks for visiting! 🚀 Keep coding and stay creative.</b>
+</p>
+
 
 
 
