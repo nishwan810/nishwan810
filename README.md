@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishwan810&show_icons=true&locale=en&layout=compact" alt="nishwan810" /></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=100&section=footer&text=👾%20Crafted%20by%20Nishwan%20with%20Creativity%20👾&fontColor=ffffff&fontAlignY=45&fontSize=18&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:fc00ff,100:00dbde&height=160&section=footer&text=⚡%20Keep%20Creating%20and%20Innovating!%20⚡&fontColor=ffffff&fontAlignY=45&fontSize=20&animation=twinkling"/>
 </p>
 
 
