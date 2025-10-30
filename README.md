@@ -23,6 +23,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishwan810&show_icons=true&locale=en&layout=compact" alt="nishwan810" /></p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
 
 
 
