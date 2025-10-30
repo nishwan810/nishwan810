@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="matrix animation"/>
+</p>
+
+<h2 align="center">Hey there, I'm Nishwan 👋</h2>
+
  <h1 align="center">Hi 👋, I'm Nishant Wankhade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
