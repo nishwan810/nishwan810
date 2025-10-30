@@ -3,9 +3,6 @@
 </p>
 
 
-<h2 align="center">Hey there, I'm Nishwan 👋</h2>
-
- <h1 align="center">Hi 👋, I'm Nishant Wankhade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Java, Springboot**
