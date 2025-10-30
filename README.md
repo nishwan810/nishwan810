@@ -26,4 +26,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:fc00ff,100:00dbde&height=160&section=footer&text=⚡%20Keep%20Creating%20and%20Innovating!%20⚡&fontColor=ffffff&fontAlignY=45&fontSize=20&animation=twinkling"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff9966,100:ff5e62&height=160&section=footer&text=🌊%20Thanks%20for%20Visiting!%20🌊&fontColor=ffffff&fontAlignY=45&fontSize=20&animation=fadeIn"/>
+</p>
 
