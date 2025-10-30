@@ -22,11 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishwan810&show_icons=true&locale=en&layout=compact" alt="nishwan810" /></p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=480&lines=Thanks+for+visiting!+🚀;Keep+building+cool+stuff!+🔥;Stay+creative,+stay+curious!+💡"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:92FE9D,100:00C9A7&height=160&section=footer&animation=twinkling&text=✨%20Made%20with%20passion%20%26%20code%20✨&fontSize=20&fontAlignY=45&fontColor=ffffff"/>
 </p>
-
-
-
 
