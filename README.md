@@ -24,11 +24,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting! 🚀 Keep coding and stay creative.</b>
+  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="100%" height="80"/>
 </p>
 
 
