@@ -24,8 +24,9 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=480&lines=Thanks+for+visiting!+🚀;Keep+building+cool+stuff!+🔥;Stay+creative,+stay+curious!+💡"/>
 </p>
+
 
 
 
