@@ -3,7 +3,7 @@
 </p>
 
 
-<h3 align="center">A Aspiring Software developer</h3>
+<h3 align="center">A Code Alchemist Mixing Logic & Creativity</h3>
 
 - 🌱 I’m currently learning **Java, Springboot**
 
