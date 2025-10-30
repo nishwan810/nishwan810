@@ -26,9 +26,20 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:fc00ff,100:00dbde&height=160&section=footer&text=⚡%20Keep%20Creating%20and%20Innovating!%20⚡&fontColor=ffffff&fontAlignY=45&fontSize=20&animation=twinkling"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lokesh-coder/pretty-readme-assets/main/blob.svg" width="100%" height="160"/>
-</p>
+<svg width="100%" height="4">
+  <rect width="100%" height="4" fill="url(#gradient)" />
+  <defs>
+    <linearGradient id="gradient">
+      <stop offset="0%">
+        <animate attributeName="stop-color" values="#ff00cc;#3333ff;#ff00cc" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" values="#3333ff;#ff00cc;#3333ff" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+</svg>
+
 
 
 
