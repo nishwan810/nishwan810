@@ -73,6 +73,8 @@ Interactive portfolio with animation-driven UI and modern design.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nishwan810&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nishwan810&layout=compact&theme=tokyonight" />
 </p>
+
+<img src="https://streak-stats.demolab.com?user=nishwan810&theme=tokyonight" />
 ---
 
 ### 🤝 Connect With Me
