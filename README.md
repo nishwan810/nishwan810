@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nishwan%20👨‍💻&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 </p>
 
+<p align="center">
+  <img src="bounce.svg" width="220"/>
+</p>
 
 <h3 align="center">A Code Alchemist Mixing Logic & Creativity</h3>
 
