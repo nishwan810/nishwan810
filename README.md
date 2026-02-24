@@ -100,7 +100,7 @@ Interactive portfolio with animation-driven UI and modern design.
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
 </p>
-![ezgif com-crop](https://github.com/user-attachments/assets/6585b3c3-c590-4f66-910e-9935515e70f7)
+
 
 ---
 
@@ -108,6 +108,8 @@ Interactive portfolio with animation-driven UI and modern design.
 
 
 
+<img src="https://github.com/user-attachments/assets/6585b3c3-c590-4f66-910e-9935515e70f7" width="100">
+<p>Set Your Heart Ablaze</p>
 <img src="https://github.com/user-attachments/assets/6585b3c3-c590-4f66-910e-9935515e70f7" width="100">
 
 
