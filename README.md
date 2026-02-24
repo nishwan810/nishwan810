@@ -106,7 +106,7 @@ Interactive portfolio with animation-driven UI and modern design.
 
 
 
-<div style="width:1000; position:relative; text-align:center;">
+<div style="width:1000; position:relative; text-align:center; display:flex; justify-content:space-between; align-items:center;">
 
 <img src="https://github.com/user-attachments/assets/6585b3c3-c590-4f66-910e-9935515e70f7" width="100">
 
