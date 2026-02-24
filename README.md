@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nishwan%20👨‍💻&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=fff"/>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Nishwan%20Wankhade&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=fff"/>
@@ -78,6 +76,10 @@ Interactive portfolio with animation-driven UI and modern design.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishwan810&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishwan810&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishwan810&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ### 🤝 Connect With Me
