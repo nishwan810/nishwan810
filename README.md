@@ -103,10 +103,19 @@ Interactive portfolio with animation-driven UI and modern design.
 
 ---
 <p align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
-<a>Set Your Heart Ablaze</a>
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
+  <table>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="120">
+      </td> 
+      <td align="center" style="font-size:22px; font-weight:bold; padding:0 20px;">
+        ✨ Set Your Heart Ablaze ✨
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="120">
+      </td>
+    </tr>
+  </table>
 </p>
 
 
