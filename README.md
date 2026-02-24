@@ -4,9 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Nishwan%20Wankhade&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 </p>
 
-<p align="center">
-  <img src="bounce.svg" width="180"/>
-</p>
+
 
 <h3 align="center">
 Backend-Focused Full Stack Developer | Java • Spring Boot • React
