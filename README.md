@@ -104,18 +104,9 @@ Interactive portfolio with animation-driven UI and modern design.
 
 ---
 
-<p  style="width:full; display:flex; justify-content:space-between; background-color:white; align-items:center " >
 
 
-
-<img src="https://github.com/user-attachments/assets/6585b3c3-c590-4f66-910e-9935515e70f7" width="100">
-<p>Set Your Heart Ablaze</p>
-<img src="https://github.com/user-attachments/assets/6585b3c3-c590-4f66-910e-9935515e70f7" width="100">
-
-
-</p>
-
-<div style="width:100%; position:relative; text-align:center;">
+<div style="width:full; position:relative; text-align:center;">
 
 <img src="https://github.com/user-attachments/assets/6585b3c3-c590-4f66-910e-9935515e70f7" width="100">
 
