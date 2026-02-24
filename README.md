@@ -100,6 +100,7 @@ Interactive portfolio with animation-driven UI and modern design.
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
 </p>
+![ezgif com-crop](https://github.com/user-attachments/assets/6585b3c3-c590-4f66-910e-9935515e70f7)
 
 ---
 
@@ -107,5 +108,8 @@ Interactive portfolio with animation-driven UI and modern design.
 
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
+<img src="[https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif](https://github.com/user-attachments/assets/6585b3c3-c590-4f66-910e-9935515e70f7)" width="400">
+
+
 </p>
 
