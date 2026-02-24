@@ -38,32 +38,45 @@ Interactive portfolio with animation-driven UI and modern design.
 
 ---
 
-### ⚙️ Tech Stack
+<h3 align="center">⚙️ Tech Stack</h3>
 
-**Backend**
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/><br>Java
+</td>
 
-* Java
-* Spring Boot
-* Hibernate
-* Servlets
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48"/><br>Spring
+</td>
 
-**Frontend**
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br>React
+</td>
 
-* React
-* JavaScript
-* HTML / CSS
-* Tailwind
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/><br>JS
+</td>
+</tr>
 
-**Database**
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/><br>HTML
+</td>
 
-* MySQL
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/><br>CSS
+</td>
 
-**Tools**
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/><br>MySQL
+</td>
 
-* Git
-* GitHub
-* VS Code
-* IntelliJ
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br>Git
+</td>
+</tr>
+</table>
 
 ---
 
