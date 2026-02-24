@@ -102,12 +102,15 @@ Interactive portfolio with animation-driven UI and modern design.
 </p>
 
 ---
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="120"/>
-  <span style="font-size:22px; font-weight:bold; margin:0 15px;">
+<p align="center" style="width:100%; display:flex; justify-content:space-between; align-items:center;">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="70"/>
+
+  <span style="font-size:18px; font-weight:600;">
     ✨ Set Your Heart Ablaze ✨
   </span>
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="120"/>
-</p>
 
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="70"/>
+
+</p>
 
